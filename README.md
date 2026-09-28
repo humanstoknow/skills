@@ -5,6 +5,7 @@ Practical skills for people working with AI agents. Each skill is a folder conta
 ## Skills
 
 - [Jev Workflow Design](skills/jev-workflow-design): find a useful role for TypeSafe AI’s Jev in your workflow, define its inputs and fallback, and compare it with your current approach.
+- [System One Model Evaluation](skills/system-one-model-evaluation): compare Jev, suitable open decision models, and your current approach on the same bounded task before changing production routing.
 
 ## Use a skill
 
