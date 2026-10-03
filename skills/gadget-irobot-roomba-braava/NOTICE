@@ -1,0 +1,16 @@
+Muse Gadget SDK community device skill
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+Upstream repository: https://github.com/facebookincubator/muse-gadget-sdk
+Pinned revision: 468e5ba629f988ad107ba472555a8b632faac0d3
+Source: skills/gadget-irobot-roomba-braava/SKILL.md
+
+Modified by Humans to Know for this distribution: SKILL.md adds a labeled
+editorial context section and replaces unresolved/cross-package references.
+references/repository-context.md is a new Humans to Know editorial supplement.
+The upstream device workflow, frontmatter and Sources are retained; source
+links to sibling skills are pinned to the upstream revision.
+
+This package is community-sourced and is not an official integration or an
+endorsement by Meta or any device manufacturer. Distributed under Apache-2.0;
+see LICENSE.

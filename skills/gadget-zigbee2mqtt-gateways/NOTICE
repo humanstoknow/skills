@@ -1,0 +1,17 @@
+Muse Gadget SDK — community device skill
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+Source: https://github.com/facebookincubator/muse-gadget-sdk
+Commit: 468e5ba629f988ad107ba472555a8b632faac0d3
+Original file: skills/gadget-zigbee2mqtt-gateways/SKILL.md
+License: Apache License, Version 2.0; see LICENSE.
+
+Modified-file notice: Humans to Know modified SKILL.md to add explicitly labeled
+editorial context, resolve the absent public home_link.md reference, and convert
+shared-skill links to pinned absolute upstream URLs. Humans to Know added
+references/repository-context.md with repository routing, command boundaries,
+and task-specific preparation/verification guidance. Original device workflows,
+limits, frontmatter names and source attribution are retained.
+
+These integrations are community sourced; this edition is not an official Meta,
+Muse or device-vendor integration and does not imply endorsement.
